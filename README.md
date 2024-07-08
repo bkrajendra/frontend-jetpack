@@ -1,6 +1,6 @@
 ## Confluxsys Jet Pack for UI
 
-Collection if extensions for Frontend development from https://github.com/viatsko/awesome-vscode
+Collection of extensions for Frontend development from https://github.com/viatsko/awesome-vscode
 
 ## Included Extensions
 ```
