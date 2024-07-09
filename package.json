@@ -3,6 +3,13 @@
   "displayName": "UI Jet Pack",
   "description": "Collection of extensions for UI development collected from https://github.com/viatsko/awesome-vscode",
   "version": "0.0.1",
+  "publisher": "rajendra-khope",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bkrajendra/ui-jetpack"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
