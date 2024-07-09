@@ -34,6 +34,7 @@ Collection of extensions for Frontend development from https://github.com/viatsk
 
 ## For more information
 
-
+Build steps:
+vsce package
 
 **Enjoy!**

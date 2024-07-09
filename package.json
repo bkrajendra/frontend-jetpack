@@ -2,7 +2,7 @@
   "name": "confluxsys-jet-pack-ui",
   "displayName": "UI Jet Pack",
   "description": "Collection of extensions for UI development collected from https://github.com/viatsko/awesome-vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "rajendra-khope",
   "license": "SEE LICENSE IN LICENSE.txt",
   "icon": "images/icon.png",
