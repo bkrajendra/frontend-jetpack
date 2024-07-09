@@ -1,14 +1,14 @@
 {
   "name": "confluxsys-jet-pack-ui",
-  "displayName": "UI Jet Pack",
+  "displayName": "Frontend Jet Pack",
   "description": "Collection of extensions for UI development collected from https://github.com/viatsko/awesome-vscode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "rajendra-khope",
   "license": "SEE LICENSE IN LICENSE.txt",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bkrajendra/ui-jetpack"
+    "url": "https://github.com/bkrajendra/frontend-jetpack"
   },
   "engines": {
     "vscode": "^1.84.0"
